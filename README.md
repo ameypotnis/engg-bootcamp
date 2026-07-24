@@ -19,32 +19,32 @@ Learn how software is built in the real world through practical concepts, indust
 * What business needs are from engineering team
 
 
-## Session 1 — DevOps Essentials (INR 500/student)
+## Session 1 — DevOps Essentials (PAID)
 
 * Understanding deployment pipelines
 * Docker fundamentals
 * CI/CD basics
 * Running applications in production
 
-## Session 2 — Architecture Essentials (INR 500/student)
+## Session 2 — Architecture Essentials (PAID)
 
 * Designing scalable applications
 * APIs, databases, caching
 * System thinking
 * Common architectural patterns
 
-## Session 3 — LLM Integration Essentials (INR 500/student)
+## Session 3 — LLM Integration Essentials (PAID)
 
 * Practical AI application integration
 * Prompting, structured outputs, tool calling
 * Building reliable AI-powered applications
 
-## Session 4 — Developer Tooling Essentials (INR 500/student)
+## Session 4 — Developer Tooling Essentials (PAID)
 
 * AI-assisted development and modern engineering workflows
 * Debugging techniques
 
-## Session 5 — Software Engineering Essentials (INR 500/student)
+## Session 5 — Software Engineering Essentials (PAID)
 
 * Project structure practices
 * Agile Practices in use for developers
